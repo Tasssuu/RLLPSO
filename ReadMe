@@ -1,0 +1,8 @@
+This directory contains the main code of the proposed optimizer in the following paper:
+
+A reinforcement learning level-based particle swarm
+optimization algorithm for large-scale optimization
+
+Qiang Yang, Wei-Neng Chen, Jeremiah Da Deng, Yun Li, Tianlong Gu, and Jun Zhang. 
+"A Level-based Learning Swarm Optimizer for Large Scale Optimization", 
+IEEE Transactions on Evolutionary Computation, vol. 22, no. 4, pp. 578-594, 2018.
